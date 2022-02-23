@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to the household of the seed of Abraham and to every family in particular to read &amp; practise</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40178</idno>
+            <idno type="STC">Wing F1812</idno>
+            <idno type="STC">ESTC R28649</idno>
+            <idno type="EEBO-CITATION">10731828</idno>
+            <idno type="OCLC">ocm 10731828</idno>
+            <idno type="VID">45557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45557)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1402:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to the household of the seed of Abraham and to every family in particular to read &amp; practise</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by John Bringhurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G.F.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends.</term>
+               <term>Family --  Religious life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45557:1"/>
+            <pb facs="tcp:45557:1" rendition="simple:additions"/>
+            <p>AN EPISTLE TO THE HOUSHOLD OF THE SEED OF ABRAHAM, AND To every Family in particular TO READ &amp; PRACTISE.</p>
+            <q>
+               <p>
+                  <hi>
+                     <hi>The Lord ſaith,</hi> I know <hi>Abraham,</hi> that he will Command his Children, and his Houſhold after him, and they ſhall keep the way of the Lord, to do Juſtice and Judgment, that the Lord may bring upon <hi>Abraham</hi> that he hath ſpoken of him.</hi>
+               </p>
+               <bibl>Gen. 18.19.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>John Bringhurſt,</hi> at the Sign of the Book in <hi>Grace-church-ſtreet.</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45557:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:45557:2"/>
+            <head>AN EPISTLE TO THE HOUSHOLD, &amp;c.</head>
+            <opener>
+               <salute>FRiends,</salute>
+            </opener>
+            <p>conſider how the Bleſſing of the Lord came upon the Obe<g ref="char:EOLhyphen"/>dient and Faithful to the Lord, and reſted upon them. The Lord ſaid to <hi>Abraham, Get thee out of thy Country, and from thy Kindred, and from thy Fathers Houſe,</hi> &amp;c. <hi>And I will make of thee a great Nation, and I will Bleſs thee,</hi> &amp;c. <hi>And thou ſhall be a Bleſſing, and I will Bleſs them that Bleſs thee, and Curſe them that Curſe thee, and in thee and in thy Seed, ſhall all the Families of the Earth be Bleſſed. Abraham</hi> obeyed the Lord, and went forth from <hi>
+                  <g ref="char:V">Ʋ</g>r</hi> of the <hi>Caldees,</hi> and ſo he left all the Religions and Worſhips, and Teachers of the Countrey of the <hi>Caldees</hi> behind him, and followed the Lord; <hi>And the Lord ſaid unto</hi> Abraham, <hi>Walk before me, and be thou perfect,</hi> Gen. 17.1. And again, <hi>The Lord ſaid unto</hi> Abraham, <hi>Seeing that</hi> Abraham <hi>ſhall ſurely become a great and mighty Nation, and all the Nations of the Earth ſhall he Bleſſed in him,</hi> Gen. 12.1, 2, 3. &amp; 18.18. And again, <hi>The Lord ſaid unto</hi> Abra<g ref="char:EOLhyphen"/>ham, <hi>That in Bleſſing I will Bleſs thee, and in Multiplying I will Multiply thy ſeed as the Stars of Heaven, and as the Sand which is upon the Sea-Shore, and thy Seed ſhall poſſeſs the Gates of his Enemies, and in thy Seed ſhall all the Nations of the Earth be Bleſſed, becauſe thou haſt Obeyed my Voice. Abraham</hi> Obeying Gods Voice, brought this Bleſſing upon him, as in <hi>Gen.</hi> 22. <hi>And the Lord ſaid, I know</hi> Abraham <hi>that he will Command his Children and his Houſhold after him, That they ſhall keep the way of the Lord, to do Juſtice and Judgment, that the Lord may bring upon</hi> Abraham <hi>all that which he hath ſpoken of him.</hi> Now you may ſee here what it is that brings the Bleſſing, and kept the Bleſſing upon Abra<g ref="char:EOLhyphen"/>ham and his ſeed, &amp;c. <hi>Now if you be of the true Faith, you are of Abraham, and are Bleſſed with faithful Abraham, Gal.</hi> 3.9. And in this ſeed and faith of Abraham, you will Command your Children and your houſhold after
+<pb n="2" facs="tcp:45557:3"/>you, to keep the way of the Lord, to do Juſtice and Judgment, that the Lord may bring the Bleſſing upon you and your Houſhold, and Children, keeping in the ſame Faith and Seed of <hi>Abraham,</hi> and you and your Chil<g ref="char:EOLhyphen"/>dren and your Houſhold, keeping in the way of the Lord to do Juſtice and Judgment, then I ſay the Bleſſing which came upon <hi>Abraham</hi> will come upon you, and upon your Children and your Houſhold, and then you will know the Promiſe of God fullfiled; <hi>Curſed is he that Curſes thee, and Bleſſed his he that Bleſſeth thee;</hi> and therefore live and walk in the ſeed, <hi>which bruſes the Head of the Serpent,</hi> in which ſeed all Nations are Bleſſed, yea all Families, Houſholds and Children, in which faith and ſeed <hi>you Command.</hi> (Mark Command) <hi>your Children and your Houſhold after you, to keep the way of the Lord as Abraham</hi> did, <hi>to do Juſtice and Judgment. Gen.</hi> 18. &amp; 19. Now you that have not this authority to Command <hi>over</hi> your Chil<g ref="char:EOLhyphen"/>dren and Houſholds, you are not in the ſame faith and ſeed of <hi>Abraham</hi> to wit, <hi>To Command your Children and Houſhold after you, to keep the way of the Lord, and to do Juſtice and Judgment.</hi> Now the Lord had a Confidence in <hi>Abraham,</hi> and ſo he hath in all them that be of his ſeed and faith now, that they will Command their Children and Houſhold to keep the way of the Lord, as he did, and walk before the Lord and to do Juſtice and Judg<g ref="char:EOLhyphen"/>ment; and that <hi>Abraham</hi>'s Family and Children ſhould not go back again into thoſe Countrey Religions, or Ways which the Seed and Faith of <hi>Abraham</hi> hath and had led them out of: for they that are commanded to come out of them, into Gods Way, into the Way of the Lord, are com<g ref="char:EOLhyphen"/>manded to keep in the Way of the Lord, and they are to command their Children and their Houſhold to keep the Way of the Lord, and to keep out of all the Ways of the World, and out of all the Ungodly, Unjuſt Ways, in the Seed, <hi>which bruiſes the head of the Serpent. And the Lord ſaid to</hi> Iſaac, <hi>I will make thy Seed to Multiply as the Stars of Heaven,</hi> &amp;c. <hi>And in thy Seed ſhall all the Nations of the Earth be Bleſſed,</hi> Gen. 26.4. Now here you may ſee that <hi>Iſaac</hi> inherited his Fathers Inheritance in the Seed, and in the Faith and Way of the Lord, in which Seed all Nations are Bleſt, and ſo do all they that be of the Faith and Seed of <hi>Abraham,</hi> that walk in the ſteps of Faithful <hi>Abraham,</hi> in the Way of the Lord, and obey his Voice, <hi>&amp;c.</hi> Inherit the Bleſſing of <hi>Abraham,</hi> for ſo you may ſee it was not the only Care that their Children might inherit a little Earth after them, but that they might inherit the Seed and the Faith, which had the Bleſſing.</p>
+            <p>
+               <hi>And</hi> Iſaac <hi>ſaid to</hi> Jacob, <hi>God Almighty Bleſs thee and give thee the Bleſſing of</hi> Abraham, <hi>to thee and to thy Seed with thee,</hi> Gen. 28. And this <hi>Iſaac</hi> ſpake to <hi>Jacob</hi> before <hi>Jacob</hi> had any Children; and here you may ſee <hi>Iſaac</hi>'s Care that <hi>Jacob</hi> and his Seed might inherit the Faith and Bleſſing of <hi>Abraham</hi> and <hi>Iſaac,</hi> and this ſhould be their firſt inheritance, and then they ſhould
+<pb n="3" facs="tcp:45557:3"/>inherit the outward Land, and this ſhould be the care of all them that walk in the ſteps of the Faith of <hi>Abraham,</hi> to ſee that their Children and Houſhold do inherit that Faith, Seed, and Bleſſing of <hi>Abraham</hi> in the firſt place, by keeping in the way of the Lord, <hi>&amp;c.</hi> And they are to <hi>Com<g ref="char:EOLhyphen"/>mand</hi> their Children to walk in the way of the Lord, <hi>&amp;c.</hi> that they may and you may ſee, that <hi>Jacob</hi> did inherit the Bleſſing of <hi>Abraham</hi> and <hi>Iſaac,</hi> in <hi>Abrahams</hi> and <hi>Iſaac</hi>'s Seed and Faith.</p>
+            <p>When the Lord ſaid unto <hi>Jacob, Thy Seed ſhall be as the duſt of the Earth, and thou ſhall ſpread abroad to the Weſt and to the Eaſt, and to the North, and to the South, and in thee and in thy ſeed ſhall all the Families of the Earth be bleſſed.</hi> So here you may ſee <hi>Jacob</hi>'s Poſſeſſion who did inherit the bleſſing of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> and <hi>Iſaac,</hi> &amp;c. And they that are of his Seed and Faith, which keep the Way of the Lord, <hi>&amp;c.</hi> They do inherit this bleſſing in the Seed, in which all Nations are bleſt. And this is according to <hi>Chriſt</hi>'s Doctrine, <hi>Seek ye firſt the Kingdom of God and his Righteouſneſs, and all theſe things ſhall be added unto you,</hi> to wit, <hi>What ye ſhall Eat, or what ye ſhall drink, or wherewith you ſhall be Cloathed, for after all theſe things that are below do the Gentiles ſeek: for your Heavenly Father knoweth that you have need of all theſe things.</hi> And here <hi>Chriſt</hi> which was of the Seed of <hi>Abraham,</hi> and of <hi>David</hi> according to the Fleſh, would have People to ſeek their Inheritance in the Kingdom of Heaven, and its Righteouſneſs, before they ſeek after outward things, and they were <hi>to lay up for themſelves Treaſure in Heaven,</hi> &amp;c. And to know that Portion for them and their Children, <hi>Matthew</hi> 6. And the Apoſtle ſaith, <hi>The Children of the Promiſe are counted for the Seed,</hi> Rom. 9.8. <hi>For in</hi> Iſaac <hi>ſhall thy Seed be called,</hi> Gen. 21.12. And <hi>Chriſt</hi> ſaith, <hi>the good Seed are the Chil<g ref="char:EOLhyphen"/>dren of the Kingdom.</hi> Mat. 13.38. and this is the Seed in which all Nations are bleſt, who keep the way of the Lord, and Juſtice and Judgment, ſuch the Almighty hath bleſſed <hi>with the bleſſings from above, the bleſſings of the deep, the bleſſings of the breaſt, and of the womb.</hi> Gen. 49. <hi>And he will alſo bleſs the fruit of the Land, thy corn, and thy wine, and thy oile, and the encreaſe of thy kine, and the flocks of thy ſheep,</hi> Deuteronomy, 7. <hi>And they that ſerve the Lord their God, he will bleſs their bread and their water,</hi> Exod. 23. <hi>And a faithful man ſhall abound with bleſſings,</hi> Proverbs. 28, 20. So you may ſee they that are in the Faith and in the Holy Seed, which keeps in the way of the Lord, and commands their Children and their Houſhold to do the ſame, they have the bleſſings from Heaven above, and the bleſſings below, yea the bleſſings of the Eternal Inheritance, and of the Kingdom of God, and that was their <hi>Chief Inheritance,</hi> That all the Faithful Seed of <hi>Abraham</hi> ſought to poſſeſs their Houſhold and their Children in, who did Command their Children and Houſhold to keep the way of God, That they might In<g ref="char:EOLhyphen"/>herit the Bleſſing. <hi>David</hi> ſaith, <hi>Bleſſed is the Man that walketh not in the Council
+<pb n="4" facs="tcp:45557:4"/>of the ungodly, nor Standeth in the way of Sinners, nor ſitteth in the ſeat of the ſcorn<g ref="char:EOLhyphen"/>ful. But his Delight is in the law of the Lord, and in his law doth be meditate day and night. Now here is the condition of them that doe enjoy the Bleſſing, they muſt keep from the Counſel of the ungodly, and the way of Sinners, and the ſeat of the Scornful.</hi> Now here you may ſee <hi>Davids</hi> Inſtruction how People might inherit the Bleſſing.</p>
+            <p>Levit. 10. <hi>That you may put a difference betwixt the holy and unholy, and be<g ref="char:EOLhyphen"/>tween the clean and unclean, and that you may teach your Children all the Statutes, which the Lord hath ſpoken unto them by the hand of Moſes.</hi> And if it was ſo in the Old <hi>Teſtament</hi> that they might Learn the Statutes there, ſurely much more they are to Learn the Commands of Chriſt in his New <hi>Teſtament.</hi>
+            </p>
+            <p>And in Deut. 4.9, 10. <hi>They were to Teach their Sons, and their Sons Sons;</hi> and again they were to <hi>Teach their Children, that they might Learn to fear God, all the days they lived upon the earth,</hi> &amp;c. This they were to teach their Chil<g ref="char:EOLhyphen"/>dren; and again in <hi>Deut.</hi> 11. It was the Command of God, that they were to teach their Children the Commandments of God, and they were to ſpeak of them, <hi>When they ſat in their Houſe,</hi> and <hi>when they walkt by the Way, when they lay down, and when they roſe up, and in Deut.</hi> 30. <hi>Moſes</hi> told them, <hi>that the Word was nigh them in their Mouths, and in their hearts, that they might do it. And David ſaid, come you Children, hearken to me, and I will Teach you the fear of the Lord. Oh fear the Lord you Saints, there is no want to them that fear him, Pſal.</hi> 34.9, 11.</p>
+            <p>
+               <hi>Ye that fear the Lord, Truſt in the Lord, he is their Help and their Shield. Pſal.</hi> 115.11. And you may ſee all along, in the Old <hi>Teſtament,</hi> they that feared the Lord, were Commanded to teach and Inſtruct their Children the way of the Lord, that they might walk in it, and inherit the Bleſſing, which was a better Portion, then outward Riches, which will paſs away, <hi>for they make themſelves Wings and Fly away. Solomon</hi> ſaith, <hi>Train up a Child in the Way he ſhould go, and when he is Old, he will not depart from it: Fooliſhneſs is bound up in the Heart of a Child, but the rod of Correction ſhall drive it far from him, Prov.</hi> 22.15. <hi>He that ſpareth the rod, hateth his Son; But he that loveth him, Chaſtiſeth him betimes. By mercy and truth Iniquity is purged, and by the fear of the Lord, they depart from evil Prov.</hi> 13.24. and 16.6. And the <hi>Apoſtles</hi> Command is, <hi>Chil<g ref="char:EOLhyphen"/>dren to obey their Parents in the Lord for this is Right.</hi> Eph. 6.1. and <hi>Coloſ.</hi> 1.3, 20.</p>
+            <p>It is well Pleaſing to the Lord, <hi>Children to Obey their Parents;</hi> and the <hi>Biſhops</hi> or <hi>Elders,</hi> were <hi>to rule well their own Houſes, and to have their Children in Subjection, with all gravity;</hi> and likewiſe, <hi>The Deacons were to rule their own Children and their own Houſes well, Tim.</hi> 1.3. And likewiſe you may ſee the good re<g ref="char:EOLhyphen"/>port of the Widows <hi>bringing up Children, which followed every good work,</hi> &amp;c. And in <hi>Titus,</hi> ſuch as were <hi>Elders</hi> or <hi>Overſeers,</hi> their <hi>Children were to be faith<g ref="char:EOLhyphen"/>ful,
+<pb n="5" facs="tcp:45557:4"/>not accuſed of riot or unruly; and the aged Women were to be of good Behaviour as becometh Holineſs,</hi> &amp;c. <hi>and Teachers of good things, and that they teach the younger Women to be Sober, &amp;c.</hi> And that <hi>the word of God he not Blaſphemed.</hi> And <hi>Titus</hi> was <hi>to Exhort Youngmen, to be ſober Minded; for the Grace of God which brings Sal<g ref="char:EOLhyphen"/>vation hath appeared unto all Men, Teaching, us that denying ungodlineſs and Worldy Luſts, we ſhould live Soberly, Righteouſly, and Godlily in this preſent World, that being Juſtified by his Grace, we ſhould be made heirs according to the Hope of Eternal Life.</hi> And <hi>Peter ſaith, as obedient Children, not Faſhioning your ſelves according to your former Luſts, in your Ignorance, but as he which hath called you is Holy ſo be you Holy, in all manner of Converſation; and be not like them, Feeding themſelves without fear, which are the Clouds without Rain, and Wells without Water, and Trees without fruit,</hi> whom <hi>Jude</hi> declares againſt, <hi>ſuch cannot Eate and Drink, to the Praiſe and Glory of God,</hi> &amp;c. So you ſee what care, both in the Old and New <hi>Teſta<g ref="char:EOLhyphen"/>ment,</hi> the faithful Parents had to teach their Children the way of the Lord; and the Lord hath a Confidence in all them that fear him, and are of the faith and ſeed of <hi>Abram,</hi> that they will not only <hi>Admoniſh their Children and Houſhold</hi> but <hi>Command their Children and their Houſhold after them, to keep the way of the Lord,</hi> &amp;c. <hi>Gen.</hi> 18. <hi>And to keep out of the Wicked Ways of the World.</hi> The Apoſtle ſaith, <hi>they which be of faith are bleſſed with faithful Abraham,</hi> And ſo are all the Children of God by faith in <hi>Chriſt Jeſus,</hi> and if you be <hi>Chriſts,</hi> then are you <hi>Abrahams ſeed and heirs according to the Promiſe. Gall.</hi> 3. And ſo the Children of God are counted for the ſeed, which good ſeed Chriſt ſaith, <hi>are the Children</hi> of the Kingdom.</p>
+            <p>And the Apoſtle ſpake to the <hi>Romans that they ſhould walk in the ſteps of the faith of Abraham.</hi> Again the Apoſtle ſaith to the <hi>Corinthians,</hi> concerning <hi>Titus, Walked not we in the ſame ſpirit, Walked not we in the ſame ſteps.</hi> And in the firſt Epiſtle of <hi>Peter, Chriſt hath Suffered for us, leaving us an Example that we ſhould follow his ſteps, who did not ſin, neither was guile found in his Mouth.</hi> So theſe were Holy ſteps, and are a Religious Holy People, that walk in the ſteps of faithful <hi>Abraham,</hi> and of <hi>Chriſt</hi> and the Apoſtles, and theſe have the <hi>pure Religion and do viſit the Fatherleſs and Widows in their affliction, and keep themſelves unſpotted from the World:</hi> and theſe are they that are <hi>Circumciſed with the Spirit, and Baptiſed with the Holy Ghoſt, and ſerve God Night and Day, and Worſhip him in Spirit and truth;</hi> and theſe are the Religious Families, which are of the <hi>Holy, Divine, Pure and Precious faith, which Chriſt is the Author and Finiſher of,</hi> which faith Puri<g ref="char:EOLhyphen"/>fieth their heart, and is their victory, by which they have acceſs to God, in which they Pleaſe him, in that which Chirſt is the <hi>Author and Finiſher of,</hi> which is called the <hi>Gift of God;</hi> and they that are of this Faith, the ſame are the <hi>Children of Abraham, and are Bleſſed with faithful Abraham; and Abraham was called the friend of God,</hi> and ſo are all his Children that be of his ſeed and faith, they are not friends of the devil, the wicked and unrighteous one,
+<pb n="6" facs="tcp:45557:5"/>but him and his works they forſake, who are Friends of God, they are Friends of Righteouſneſs and Holineſs, &amp;c. And ſuch the Bleſſings of God reſt upon, them that are of the ſeed and walk in the ſeed, <hi>Chriſt, that bruiſes the Serpent's head, and in that ſeed are all Nations bleſt,</hi> and out of the mouth of the Seeds ſeed, ſhall not Gods word depart; but it ſhall abide in the Mouth of the Seeds ſeed <hi>(this Living word of God)</hi> but the Word of God doth not abide in them, who make a Profeſſion of the Scriptures, but live not in the Power and Spirit or the Holy Ghoſt, that gave forth the Scriptures; ſuch are like the <hi>Jews, John</hi> 5. and ſuch think to have Life in the Scriptures, but they will not come unto <hi>Chriſt</hi> that they may have life; for none come to <hi>Chriſt</hi> but by believeing in the light, which is the life in him the Word.</p>
+            <p>Now dear Friends and Brethren in <hi>Chriſt Jeſus,</hi> if you keep in the ſeed and Faith of <hi>Abraham,</hi> in it Command your Children and Families to walk in the way of the Lord, for in it you have Authority that they may keep the Pure Holy and Righteous way of the Lord after you, when you are gone, that they may ſucceed you in the Faith and ſeed, and way of the Lord, and in the Bleſſings of God, as <hi>Iſaac</hi> and <hi>Jacob</hi> did <hi>Abram.</hi> Amen.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:45557:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
